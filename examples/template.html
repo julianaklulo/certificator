@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link rel="stylesheet" href="styles.css">
+    </head>
+    <body>
+	<div class="row"></div>
+	<div class="row">
+	    <div id="main">
+                <br/><br/><br/><br/><br/><br/><br/><br/>
+		<p style="text-align: center; font-size: 35px; color: #560EE5"><b>{{ name }}</b></p>
+		<p style="text-align: center">participou do <b>{{ title }}</b> realizado durante o <br> <b>{{ place }}</b> em <b>{{ date }}</b>, com carga horária total de <b>{{ workload }}</b>.</p>
+            </div>
+            <div id="bot">
+                <div style="margin: auto; width: 45%">
+		    <p>{{ city }}, {{ full_date }}</p>
+                    <img src="{{ signature_img_path }}" style="height: 30px">
+                    <div id="signature">
+                        <p>{{ responsible }}<br/>{{ responsible_title }}</p>
+                    </div>
+                </div>
+            </div>
+	</div>
+    </body>
+</html>

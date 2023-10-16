@@ -1,11 +1,12 @@
 {
-  "title": "Eventful event for event-driven events",
-  "organizer": "Eveorg",
-  "place": "Event square",
-  "date": "06/06/06",
-  "full_date": "June 6, 2006",
-  "city": "Eventville",
-  "workload": "16 hours",
-  "responsible": "Eve Ent Eventson",
-  "responsible_title": "Event Organizer"
+  "title": "Minicurso de Introdução à Linguagem Python",
+  "organizer": "grupy-sanca",
+  "place": "São Carlos Experience",
+  "date": "28/10/2023",
+  "full_date": "28 de Outubro de 2023",
+  "city": "São Carlos",
+  "workload": "8 horas",
+  "responsible": "Marcelo Miky",
+  "responsible_title": "Organizador",
+  "signature_img_path": "assinatura.png"
 }
